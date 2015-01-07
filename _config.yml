@@ -1,8 +1,8 @@
 #--------------------------------------------------------------------------------
 # Values for this workshop - EDIT THIS SECTION.
 #--------------------------------------------------------------------------------
-lesson_repo     : "http://github.com/swcarpentry/workshop-template"
-lesson_site     : "http://swcarpentry.github.io/workshop-template"
+lesson_repo     : "https://github.com/camillescott/T3Test"
+lesson_site     : "http://camillescott.github.io/T3Test"
 #--------------------------------------------------------------------------------
 # Standard Software Carpentry settings - should not need to be modified.
 #--------------------------------------------------------------------------------
